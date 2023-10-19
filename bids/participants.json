@@ -29,12 +29,10 @@
   "appt1_breathalyzer": {
     "Description": "Breathalyzer results for participants' first appointment",
     "Units": "BAC"
-    }
   },
   "Age": {
     "Description": "Age of the participant as reported by the participant",
     "Units": "years"
-    }
   },
   "Gender": {
     "Description": "Gender of the participant as reported by the participant",
